@@ -1,11 +1,31 @@
 # Hi there 👋
 Soon-To-Be Computer Science Graduate looking for work! Interested in **Software Engineering**, **Cloud Computing**, **Data Analyst**, and any other roles that may be applicable to my skillset! I have an extensive history of working with Linux, Docker, and Computer Hardware!
 
-
-# Experience:
+## Programming and Scripting Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,rust,java,linux,docker,git,github,audition,photoshop,premiere,apple,windows,blender,arch,arduino,go,godot,grafana,latex,markdown,mastodon,matlab,mint,vim,notion,obsidian,postgresql,raspberrypi,redhat,ubuntu,unreal,unity,vscode," />
+    <img src="https://skillicons.dev/icons?i=c,python,rust,java,go,matlab" />
+  </a>
+</p>
+
+## Development and Version Control Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,notion,obsidian,vim,latex,markdown" />
+  </a>
+</p>
+
+## Operating Systems and Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows,arch,mint,redhat,ubuntu,raspberrypi,arduino" />
+  </a>
+</p>
+
+## Multimedia, Game Development, and Monitoring
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=audition,photoshop,premiere,blender,godot,unreal,unity,grafana,postgresql,mastodon" />
   </a>
 </p>
 
