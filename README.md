@@ -4,7 +4,7 @@ Soon-To-Be Computer Science Graduate looking for work! Interested in **Software 
 ## Programming and Scripting Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,rust,java,bash,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,python,rust,java,kotlin,bash,matlab" />
   </a>
 </p>
 
