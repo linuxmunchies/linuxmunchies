@@ -1,3 +1,4 @@
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 # Hi there 👋
 Soon-To-Be Computer Science Graduate looking for work! Interested in **Software Engineering**, **Cloud Computing**, **Data Analyst**, and any other roles that may be applicable to my skillset! I have an extensive history of working with Linux, Docker, and Computer Hardware!
 
@@ -44,3 +45,4 @@ Soon-To-Be Computer Science Graduate looking for work! Interested in **Software 
 - 📫 How to reach me: Discord, Email, or Matrix!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sonic Adventure 2 is the best Sonic game!
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
