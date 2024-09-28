@@ -1,6 +1,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 # Hi there 👋
-Soon-To-Be Computer Science Graduate looking for work! Interested in **Software Engineering**, **Cloud Computing**, **Data Analyst**, and any other roles that may be applicable to my skillset! I have an extensive history of working with Linux, Docker, and Computer Hardware!
+Bachelors of Science in Computer Science | Looking for work! Interested in **Software Engineering**, **Cloud Computing**, **Data Analyst**, and any other roles that may be applicable to my skillset! Looking primarily for junior or internship-level roles! I have an extensive history of working with Linux, Docker, and Computer Hardware!
 
 ## Programming and Scripting Languages
 <p align="center">
