@@ -42,7 +42,7 @@ Bachelors of Science in Computer Science | Looking for work! Interested in **Sof
 - 🌱 I’m currently learning Rust!
 - 👯 I’m looking to collaborate on beginner projects.
 - 💬 Ask me about Linux!
-- 📫 How to reach me: Discord, Email, or Matrix!
+- 📫 How to reach me: Email, Matrix, Telegram, or (soon) Mastodon/Bluesky!!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sonic Adventure 2 is the best Sonic game!
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
