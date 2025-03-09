@@ -2,7 +2,7 @@
 # Hi there 👋
 Bachelors of Science in Computer Science | Looking for work! Interested in **Software Engineering**, **Cloud Computing**, **Data Analyst**, and any other roles that may be applicable to my skillset! Looking primarily for junior or internship-level roles! I have an extensive history of working with Linux, Docker, and Computer Hardware!
 
-## Programming and Scripting Languages
+## Programming and Scripting Languages I Have Experience In
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,rust,java,kotlin,bash,matlab" />
