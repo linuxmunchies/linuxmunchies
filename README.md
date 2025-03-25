@@ -2,13 +2,6 @@
 # Hi there 👋
 Bachelors of Science in Computer Science | Looking for work! Interested in IT, Linux, Software Engineering, Cloud Computing, Data Analyst, and any other roles that may be applicable to my skillset! Looking primarily for junior or internship-level roles! I have an extensive history of working with Linux, Docker, and Computer Hardware!
 
-## Programming and Scripting Languages I Have Experience In
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,rust,java,kotlin,bash,matlab" />
-  </a>
-</p>
-
 ## Development and Version Control Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +12,7 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
 ## Operating Systems and Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows,fedora,arch,mint,redhat,ubuntu,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows,arch,mint,redhat,ubuntu,raspberrypi,arduino" />
   </a>
 </p>
 
@@ -27,6 +20,13 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=audition,photoshop,premiere,blender,godot,unreal,unity,grafana,postgresql,mastodon" />
+  </a>
+</p>
+
+## Programming and Scripting Languages I Have Experience In
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,rust,java,kotlin,bash,matlab" />
   </a>
 </p>
 
