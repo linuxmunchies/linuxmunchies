@@ -19,7 +19,7 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
 ## Operating Systems and Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows,arch,mint,redhat,ubuntu,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows,fedora,arch,mint,redhat,ubuntu,raspberrypi,arduino" />
   </a>
 </p>
 
