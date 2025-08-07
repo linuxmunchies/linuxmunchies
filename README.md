@@ -30,11 +30,6 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
   </a>
 </p>
 
-
-### You are visitor: 
-![Visitor Count](https://profile-counter.glitch.me/{linuxmunchies}/count.svg)
-
-
  LinkedIn:  <a href="https://www.linkedin.com/in/linuxmunchies/">
  <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
