@@ -1,5 +1,5 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-# YES I AM THE DEV OF cpu.lol, NO IT IS NOT FOR SALE!! =)
+# YES I AM THE DEV OF cpu.lol, NO IT IS NOT FOR SALE!! (yet.) =)
 
 
 # Hi there 👋
