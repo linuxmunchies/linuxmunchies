@@ -1,5 +1,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 # YES I AM THE DEV OF cpu.lol, NO IT IS NOT FOR SALE!! =)
+
+
 # Hi there 👋
 Bachelors of Science in Computer Science | Looking for work! Interested in IT, Linux, Software Engineering, Cloud Computing, Data Analyst, and any other roles that may be applicable to my skillset! Looking primarily for junior or internship-level roles! I have an extensive history of working with Linux, Docker, and Computer Hardware!
 
