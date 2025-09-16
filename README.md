@@ -33,8 +33,6 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
   </a>
 </p>
 
- LinkedIn:  <a href="https://www.linkedin.com/in/linuxmunchies/">
- <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
 - 🔭 I’m currently working on getting my old projects migrated over to GitHub
 - 🌱 I’m currently learning Rust!
