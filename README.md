@@ -38,5 +38,5 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
 - 💬 Ask me about Linux!
 - 📫 How to reach me: Email, Matrix, Telegram, or (soon) Mastodon/Bluesky!!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sonic Adventure 2 is the best Sonic game!
+- ⚡ Sonic Adventure 2 is tha best Sonic game!
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
