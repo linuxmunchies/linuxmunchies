@@ -39,4 +39,6 @@ Bachelors of Science in Computer Science | Looking for work! Interested in IT, L
 - 📫 How to reach me: Email, Matrix, Telegram, or (soon) Mastodon/Bluesky!!
 - 😄 Pronouns: He/Him
 - ⚡ Sonic Adventure 2 is tha best Sonic game!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H11MFEZL)
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
